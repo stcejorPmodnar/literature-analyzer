@@ -1,0 +1,9 @@
+venv
+.DS_Store
+.gitignore.swp
+.scrape.py.swp
+test.py
+.test.py.swp
+tree.py
+.tree.py.swp
+scrape.py
